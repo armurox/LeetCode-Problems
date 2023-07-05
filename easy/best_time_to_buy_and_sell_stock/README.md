@@ -1,1 +1,1 @@
-This is my current best solution to the LeetCode Easy problem "Best Time to Buy and Sell Stock". As my current solution has been accepted, I consider it to be complete. Of course, as always, if I can think of a better solution, I shall return to the problem and add it.
+This is my current best solution to the LeetCode Easy problem "Best Time to Buy and Sell Stock". As my current solution has been accepted, I consider it to be complete. Of course, as always, if I can think of a more efficient solution, I shall return to the problem.
