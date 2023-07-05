@@ -1,1 +1,2 @@
 # LeetCode-Problems
+This is a set of solutions for LeetCode problems that I have solved. The solutions will mainly be in C, C++ and Python. They will be in the exact format as the LeetCode template for that problem (int that particular language). Tests are also added.
